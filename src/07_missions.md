@@ -118,7 +118,7 @@ critères que je rechercherai dans mes futurs emplois.
 
 
 ```{=latex}
-\begin{awesomeblock}[white][\abShortLine][\textbf{Modifications tous les paramètres concernant la structure de votre 
+\begin{awesomeblock}[white][\abShortLine][\textbf{Les modifications de tous les paramètres concernant la structure d'un 
 formulaire que je devais implementer sont les suivantes : }]{5pt}{\faAngular}{red}
 ```
 - Création, Modification (le nom & version) et suppression d'un formulaire
