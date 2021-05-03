@@ -2,8 +2,8 @@ Les apports du stage
 =====================
 
 Au cours de ce stage, j’ai beaucoup appris. Les apports que j’ai tirés de cette expérience professionnelle
-peuvent être regroupés autour de deux idées principales : les acquis humains et professionnels, les difficultés 
-rencontrées et solutions apportées.
+peuvent être regroupés autour de deux parties principales : les acquis personnels & professionnels et les difficultés 
+rencontrées & solutions apportées.
 
 ## Compétences acquises
 
@@ -34,7 +34,7 @@ difficultés rencontrées sont toujours très formatrices, elles permettent de m
 inhabituelles, et par conséquent à m'organiser et m'améliorer.
 
 J'ai tout de même rencontré quelques difficultés au cours du stage. De par la diversité des outils à
-utiliser et les nombreuses librairies à connaitre en simultané. Un autre point important que je retiens de ce stage 
+utiliser et les nombreuses librairies à connaitre en simultané. Un point important que je retiens de ce stage 
 est la nécessité de devoir ne jamais se sous-estimer. En effet, lorsque l’on m’a présenté ma deuxième mission, je me suis aperçu qu’elle nécessitait 
 des compétences importantes en web design pur. Or, ma spécialisation tend plutôt à réaliser des
 programmes back-end. Cependant, je ne me suis pas affolé et j’ai repris les cours que j’ai pu recevoir dans les

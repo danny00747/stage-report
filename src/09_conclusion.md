@@ -10,7 +10,7 @@ Conclusion et Perspectives
 Ces 15 semaines de stage, viennent conclure ma troisième année d’études à l'EPHEC.
 Elles vont me permettre de valider mon Bachelier en Technologique de l'Informatique et m’ont permis de vivre une expérience
 forte, instructive et très bénéfique tant sur le plan théorique que sur le plan pratique ; suite à l’acquisition et 
-la maîtrise de nouvelles technologies et des nouveaux aspects dans le domaine de développement . \newline
+la maîtrise de nouvelles technologies et des nouveaux aspects dans le domaine de développement d'applications web. \newline
 
 
 Par ailleurs, j’ai pu approfondir mes connaissances sur « mon Moi », en

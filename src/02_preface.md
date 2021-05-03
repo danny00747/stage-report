@@ -9,7 +9,7 @@ fonttitle=\bfseries]
 Avant tout développement sur cette expérience professionnelle, il apparaît opportun de commencer ce rapport de stage 
 par des remerciements, à ceux qui m’ont beaucoup appris au cours de ce stage. \newline
 
-Je tiens à remercier les responsables et au personnel de l’entreprise \textbf{Brainstorm}, d'avoir 
+Je tiens à remercier les responsables et le personnel de l’entreprise \textbf{Brainstorm}, d'avoir 
 ont mis tout en œuvre pour que mon stage se déroule dans les meilleures conditions possible. Merci à l'ensemble 
 des personnes avec qui j'ai pu travailler. Ils ont su se rendre disponibles quand cela été nécessaire et 
 ont toujours pris soin de m'expliquer les choses de façon pédagogique. \newline 
