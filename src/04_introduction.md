@@ -19,14 +19,5 @@ les difficultés du stage et les solutions apportées. En fin une conclusion bou
 
 :::
 
-De plus, nous devons appliquer des concepts vus en cours comme :
-
-* utilisation de processus père-fils via la fonction `fork()` (cours de 1ère année)[^1]
-* utilisation de la mémoire partagée pour le partage de données entre processus
-* utilisation de sémaphores pour gérer la synchronisation des processus [^2].
-
-[^1]: [Fork](https://www.man7.org/linux/man-pages/man2/fork.2.html) 
-[^2]: [Sémaphores](https://sites.uclouvain.be/SystInfo/notes/Theorie/html/Threads/coordination.html) 
-
 \pagebreak
 

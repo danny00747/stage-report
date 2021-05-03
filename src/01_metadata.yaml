@@ -22,11 +22,11 @@ titlepage-text-color: "343434"
 titlepage-background: "imgs/back.jpg"
 table-use-row-colors: true
 colorlinks: true
-date: 17 mars 2021
+date: 07 mai 2021
 toc: true
 lof: true
 lot: true
-lol: true
+lol: false
 toc-won-page: true
 toc-title: Table des matières
 reference-section-title : "References"
@@ -37,10 +37,8 @@ header-includes:
     \usepackage{polyglossia}
     \usepackage{awesomebox}
     \usepackage{tcolorbox }
-    \usepackage{xcolor}
     \usepackage[tableposition = top]{caption}
     \usepackage{booktabs}
-    \usepackage{chronology}
     ```
 pandoc-latex-environment:
   noteblock: [note]

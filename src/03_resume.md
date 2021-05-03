@@ -12,7 +12,7 @@ sur le projet UINS, un des sites développés par BStorm. UINS est basiquement l
 
 En bref, mon stage consistait dans un premier temps à développer (uniquement l'interface graphique) une application web
 de gestion de projets. Cette application est une interface pour gérer un projet dans son ensemble, par exemple la création 
-d'un bug, l'assignation des utilisateurs à un projet. Pour réaliser cela j'ai travaillé avec différents outils
+d'un bogue, l'assignation des utilisateurs à un projet. Pour réaliser cela j'ai travaillé avec différents outils
 dont le framework front-end Angular et le framework CSS Boostrap. \newline
 
 Dans un deuxième temps j'ai travaillé sur le projet UINS. C'est une application web pour gérer l'inscription des étudiants

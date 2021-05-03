@@ -65,7 +65,7 @@ formations en analyse métier/fonctionnelle et en gestion de projet (UML, BPMN, 
 ```  
 
 Brainstorm Consulting réalise des applications et sites Web. Selon les besoins et contraintes de chaque client,
-nous analysons l'opportunité de réaliser un développement sur mesure ou d'utiliser des outils existants (CMS, CRM, ERP).
+ils analysent l'opportunité de réaliser un développement sur mesure ou d'utiliser des outils existants (CMS, CRM, ERP).
 Ils disposent d'expertise dans plusieurs technologies reconnues : .NET, Java, PHP, Android, Javascript
 
 ```{=latex}
