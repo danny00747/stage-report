@@ -13,8 +13,8 @@ L’élaboration de ce rapport a pour principale source les différents enseigne
 tâches auxquelles j’étais affecté. Enfin, les nombreux entretiens que j’ai pu avoir avec les employés des différents services 
 de la société m’ont permis de donner une cohérence à ce rapport. \newline
 
-Le présent rapport couvre les éléments suivants : la description du mandat du stage, la présentation de l'organisme dans 
-lequel le stage a eu lieu, la méthodologie utilisée durant le stage, les missions effectuées, les apports du stage, 
+Le présent rapport couvre les éléments suivants : la description du mandat du stage, la présentation de l'entreprise dans 
+lequel le stage a eu lieu, les missions effectuées, les apports du stage, 
 les difficultés du stage et les solutions apportées. En fin une conclusion boucle ce rapport de stage.
 
 :::
