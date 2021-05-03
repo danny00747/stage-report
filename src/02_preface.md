@@ -6,13 +6,14 @@
 title=Remerciements,coltitle=white,
 fonttitle=\bfseries]
 
-Avant tout développement sur cette expérience professionnelle, il apparaît opportun de commencer ce rapport de stage 
-par des remerciements, à ceux qui m’ont beaucoup appris au cours de ce stage. \newline
+Avant tout développement sur cette expérience professionnelle, il apparaît opportun de commencer 
+par dire que ce stage n’aurait jamais abouti sans l’appui de certaines personnes que je tiens à remercier vivement, 
+ci-après. \newline
 
-Je tiens à remercier les responsables et le personnel de l’entreprise \textbf{Brainstorm}, d'avoir 
-ont mis tout en œuvre pour que mon stage se déroule dans les meilleures conditions possible. Merci à l'ensemble 
-des personnes avec qui j'ai pu travailler. Ils ont su se rendre disponibles quand cela été nécessaire et 
-ont toujours pris soin de m'expliquer les choses de façon pédagogique. \newline 
+Il m’ai un agréable droit d’exprimer ma forte reconnaissance et gratitude aux responsables et au personnel de 
+l’entreprise \textbf{Brainstorm}, d'avoir ont mis tout en œuvre pour que mon stage se déroule dans les meilleures 
+conditions possible. Merci à l'ensemble des personnes avec qui j'ai pu travailler. Ils ont su se rendre disponibles 
+quand cela été nécessaire et ont toujours pris soin de m'expliquer les choses de façon pédagogique. \newline 
 
 Je saisis également cette occasion pour adresser mes profonds remerciements aux professeurs de la haute école 
 \textbf{EPHEC-LLN}, qui m’ont fourni les outils nécessaires au bon déroulement de mon stage. Je tiens particulièrement

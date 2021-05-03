@@ -116,7 +116,6 @@ critères que je rechercherai dans mes futurs emplois.
 \end{figure}
 
 
-
 ```{=latex}
 \begin{awesomeblock}[white][\abShortLine][\textbf{Les modifications de tous les paramètres concernant la structure d'un 
 formulaire que je devais implementer sont les suivantes : }]{5pt}{\faAngular}{red}
