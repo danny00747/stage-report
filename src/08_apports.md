@@ -38,8 +38,7 @@ utiliser et les nombreuses librairies à connaitre en simultané. Un point impor
 est la nécessité de devoir ne jamais se sous-estimer. En effet, lorsque l’on m’a présenté ma deuxième mission, je me suis aperçu qu’elle nécessitait 
 des compétences importantes en web design pur. Or, ma spécialisation tend plutôt à réaliser des
 programmes back-end. Cependant, je ne me suis pas affolé et j’ai repris les cours que j’ai pu recevoir dans les
-années antécédentes. En parallèle, je me suis formé de manière autodidacte sur les librairies utilisées à l’aide 
-de la documentation disponible sur l'internet, ce qui m’a permis de répondre sans trop de difficultés aux objectifs 
-que l’on m’avait fixés.
+années antécédentes. En parallèle, je me suis formé de manière autodidacte sur les librairies utilisées, 
+ce qui m’a permis de répondre sans trop de difficultés aux objectifs que l’on m’avait fixés.
 
 \pagebreak
