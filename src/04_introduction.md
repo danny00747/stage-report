@@ -19,8 +19,8 @@ acquérant des nouvelles connaissances dans le domaine des activités de
 l’entreprise. \newline
 
 Pour satisfaire à cette nécessité, j’ai eu l’honneur d’être admis pour passer un stage au sein de l’entreprise
-BRAINSTORM; suite à une convention tripartite signée entre la société BRAINSTORM, la Haute École “École Pratique des Hautes Études Commerciales” et moi‑même pour une durée
-d’environ 15 semaines. \newline
+BRAINSTORM; suite à une convention tripartite signée entre la société BRAINSTORM, la Haute École “École Pratique des Hautes Études Commerciales” 
+et moi‑même pour une durée d’environ 15 semaines. \newline
 
 L’élaboration de ce rapport a pour principale source les différents enseignements tirés de la pratique journalière des 
 tâches auxquelles j’étais affecté. Enfin, les nombreux entretiens que j’ai pu avoir avec les employés des différents 

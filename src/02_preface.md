@@ -11,7 +11,7 @@ par dire que ce stage n’aurait jamais abouti sans l’appui de certaines perso
 ci-après. \newline
 
 Il m’ai un agréable droit d’exprimer ma forte reconnaissance et gratitude aux responsables et au personnel de 
-l’entreprise \textbf{Brainstorm}, d'avoir ont mis tout en œuvre pour que mon stage se déroule dans les meilleures 
+l’entreprise \textbf{Brainstorm}, d'avoir mis tout en œuvre pour que mon stage se déroule dans les meilleures 
 conditions possible. Merci à l'ensemble des personnes avec qui j'ai pu travailler. Ils ont su se rendre disponibles 
 quand cela été nécessaire et ont toujours pris soin de m'expliquer les choses de façon pédagogique. \newline 
 
